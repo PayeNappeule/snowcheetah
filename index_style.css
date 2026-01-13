@@ -1,0 +1,14 @@
+
+header {
+    background: paleturquoise;
+}
+
+main {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    background: darkslategray;
+    color: white;
+}
