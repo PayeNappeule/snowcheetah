@@ -3,7 +3,7 @@ header {
     background: paleturquoise;
 }
 
-main {
+.sections {
     display: flex;
 }
 
@@ -11,4 +11,8 @@ footer {
     display: flex;
     background: darkslategray;
     color: white;
+}
+
+img {
+    width: 10%;
 }
